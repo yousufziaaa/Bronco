@@ -25,6 +25,6 @@ Bronco was a platform designed to support American industry in a number of ways.
 - If I were still working on the same projects with Bronco, I would have focused more on making features easier to access. Due to the fact that most ERPs are extremely complex from a user perspective, most of the design inspiration came from these products and influenced the designs I also created. Going back, I would've spent longer focusing on how the user experience could be simplified to create beautiful, seamless product experiences.
 
 ## Contact
-**Email:** yousuf.zephyr@gmail.com
-**Linkedin:** https://linkedin.com/in/zia-yousuf
-**Website:** https://yousufzia.co
+- **Email:** yousuf.zephyr@gmail.com
+- **Linkedin:** https://linkedin.com/in/zia-yousuf
+- **Website:** https://yousufzia.co
